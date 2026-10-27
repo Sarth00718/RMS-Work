@@ -1,0 +1,19 @@
+============================================================
+Classification Report: Centralized_Baseline_binary
+============================================================
+
+              precision    recall  f1-score   support
+
+       No DR       0.73      0.56      0.63        34
+          DR       0.81      0.90      0.85        69
+
+    accuracy                           0.79       103
+   macro avg       0.77      0.73      0.74       103
+weighted avg       0.78      0.79      0.78       103
+
+
+Accuracy:          0.7864
+Balanced Accuracy: 0.7287
+Macro F1:          0.7413
+Weighted F1:       0.7780
+AUC:               0.8623

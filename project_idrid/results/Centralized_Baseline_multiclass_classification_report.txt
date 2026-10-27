@@ -1,0 +1,22 @@
+============================================================
+Classification Report: Centralized_Baseline_multiclass
+============================================================
+
+                  precision    recall  f1-score   support
+
+           No DR       0.67      0.65      0.66        34
+            Mild       0.00      0.00      0.00         5
+        Moderate       0.55      0.75      0.63        32
+          Severe       0.40      0.32      0.35        19
+Proliferative DR       0.36      0.31      0.33        13
+
+        accuracy                           0.54       103
+       macro avg       0.40      0.40      0.39       103
+    weighted avg       0.51      0.54      0.52       103
+
+
+Accuracy:          0.5437
+Balanced Accuracy: 0.4041
+Macro F1:          0.3949
+Weighted F1:       0.5202
+AUC:               0.8126

@@ -1,0 +1,19 @@
+============================================================
+Classification Report: DP_FedAvg_Noise_8p0_binary
+============================================================
+
+              precision    recall  f1-score   support
+
+       No DR       0.54      1.00      0.70       199
+          DR       0.00      0.00      0.00       167
+
+    accuracy                           0.54       366
+   macro avg       0.27      0.50      0.35       366
+weighted avg       0.30      0.54      0.38       366
+
+
+Accuracy:          0.5437
+Balanced Accuracy: 0.5000
+Macro F1:          0.3522
+Weighted F1:       0.3830
+AUC:               0.4105

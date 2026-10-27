@@ -1,0 +1,22 @@
+============================================================
+Classification Report: DP_FedAvg_Noise_3p5_multiclass
+============================================================
+
+                  precision    recall  f1-score   support
+
+           No DR       0.00      0.00      0.00       199
+            Mild       0.00      0.00      0.00        30
+        Moderate       0.00      0.00      0.00        87
+          Severe       0.05      1.00      0.09        17
+Proliferative DR       0.00      0.00      0.00        33
+
+        accuracy                           0.05       366
+       macro avg       0.01      0.20      0.02       366
+    weighted avg       0.00      0.05      0.00       366
+
+
+Accuracy:          0.0464
+Balanced Accuracy: 0.2000
+Macro F1:          0.0178
+Weighted F1:       0.0041
+AUC:               0.4527

@@ -1,0 +1,19 @@
+============================================================
+Classification Report: FedAvg_NoNoise_binary
+============================================================
+
+              precision    recall  f1-score   support
+
+       No DR       0.97      0.97      0.97       199
+          DR       0.97      0.97      0.97       167
+
+    accuracy                           0.97       366
+   macro avg       0.97      0.97      0.97       366
+weighted avg       0.97      0.97      0.97       366
+
+
+Accuracy:          0.9727
+Balanced Accuracy: 0.9725
+Macro F1:          0.9725
+Weighted F1:       0.9727
+AUC:               0.9936

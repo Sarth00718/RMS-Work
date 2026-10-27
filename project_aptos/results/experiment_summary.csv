@@ -1,0 +1,2 @@
+experiment,accuracy,f1_macro,auc
+Centralized_Baseline_binary,0.9836065573770492,0.983495670995671,0.9960882255589324

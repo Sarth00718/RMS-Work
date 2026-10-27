@@ -1,0 +1,22 @@
+============================================================
+Classification Report: FedAvg_NoNoise_multiclass
+============================================================
+
+                  precision    recall  f1-score   support
+
+           No DR       0.95      0.98      0.97       199
+            Mild       0.44      0.50      0.47        30
+        Moderate       0.59      0.83      0.69        87
+          Severe       0.00      0.00      0.00        17
+Proliferative DR       0.50      0.06      0.11        33
+
+        accuracy                           0.78       366
+       macro avg       0.50      0.47      0.45       366
+    weighted avg       0.74      0.78      0.74       366
+
+
+Accuracy:          0.7760
+Balanced Accuracy: 0.4736
+Macro F1:          0.4462
+Weighted F1:       0.7368
+AUC:               0.9483

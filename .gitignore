@@ -1,0 +1,41 @@
+# Datasets (large files and directories)
+aptos_dataset/
+B. Disease Grading/
+archive.zip
+*.zip
+*.tar
+*.tar.gz
+*.7z
+*.rar
+
+# Model weights and checkpoints (exceed GitHub 100MB per-file limit)
+*.pth
+*.pt
+*.ckpt
+*.bin
+*.h5
+checkpoints/
+**/checkpoints/*.pth
+
+# Python and virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+venv/
+env/
+ENV/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# IDE and agent directories
+.agents/
+.vscode/
+.idea/
+
+# OS metadata
+Thumbs.db
+Desktop.ini
+.DS_Store

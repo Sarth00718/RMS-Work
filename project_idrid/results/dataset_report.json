@@ -1,0 +1,32 @@
+{
+  "dataset_name": "IDRiD Disease Grading",
+  "total_samples": 516,
+  "training_samples": 413,
+  "testing_samples": 103,
+  "train_class_distribution": {
+    "No DR": 134,
+    "Mild": 20,
+    "Moderate": 136,
+    "Severe": 74,
+    "Proliferative DR": 49
+  },
+  "test_class_distribution": {
+    "No DR": 34,
+    "Mild": 5,
+    "Moderate": 32,
+    "Severe": 19,
+    "Proliferative DR": 13
+  },
+  "train_binary_distribution": {
+    "No DR": 134,
+    "DR": 279
+  },
+  "image_dimensions": {
+    "min_width": 4288,
+    "max_width": 4288,
+    "min_height": 2848,
+    "max_height": 2848,
+    "sample_size": "4288x2848"
+  },
+  "corrupted_images": []
+}
